@@ -66,9 +66,9 @@ export default function Index() {
                     Built with 🤖{" "}
                     <a
                       className="underline"
-                      href="https://github.com/ascorbic/daneel"
+                      href="https://github.com/davidjenner"
                     >
-                      Daneel
+                      David
                     </a>
                   </p>
                 </div>
