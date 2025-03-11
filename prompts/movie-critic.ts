@@ -8,4 +8,7 @@ export const samplePhrases = [
   "What are some focus strategies for ADHD?",
   "Give me tips for organizing tasks with dyslexia.",
   "What are sensory-friendly activities for autistic people?",
-];
+  "How can I create a distraction-free workspace for ADHD?",
+  "What are effective time management techniques for dyslexia?",
+  "Suggest calming sensory activities for autistic adults."
+]
