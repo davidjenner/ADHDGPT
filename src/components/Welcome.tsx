@@ -5,7 +5,7 @@ export const Welcome: React.FC = () => (
     Welcome to your neurodivergent-friendly corner of the internet! This is a safe and supportive space for folks with autism, ADHD, dyslexia, and more, where you can find helpful ideas and strategies tailored to your unique brain.
     </p>
     <p>
-      <a className="underline" href="https:// davidjenner.cc">
+      <a className="underline" href="https://davidjenner.cc">
         davidjenner.cc
       </a>
     </p>
