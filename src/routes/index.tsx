@@ -45,7 +45,7 @@ export default function Index() {
 
   return (
     <App title="AI Chat Bot for Neurodivergents">
-      <main className="bg-green-50 md:rounded-lg md:shadow-md p-6 w-full h-full flex flex-col" style={{ fontFamily: 'OpenDyslexic, sans-serif' }}>
+      <main className="bg-white md:rounded-lg md:shadow-md p-6 w-full h-full flex flex-col" style={{ fontFamily: 'OpenDyslexic, sans-serif' }}>
         <section className="overflow-y-auto flex-grow mb-4 pb-8">
           <div className="flex flex-col space-y-4">
             {chatHistory.length === 0 ? (
